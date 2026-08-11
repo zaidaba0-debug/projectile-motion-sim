@@ -29,5 +29,5 @@ for ang in angles:
 
 plt.title("Projectile Motion with Air Resistance")
 plt.legend()
-plt.savefig("graph.png") # This saves the picture!
+plt.savefig("graph.png") 
 plt.show()
